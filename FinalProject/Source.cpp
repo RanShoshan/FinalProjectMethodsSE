@@ -1,6 +1,7 @@
 #include "../Common/Graphics.h"
-#include "../Controls/Label.h"
 #include "../Common/EventEngine.h"
+#include "Label.h"
+
 
 int main(int argc, char** argv)
 {
